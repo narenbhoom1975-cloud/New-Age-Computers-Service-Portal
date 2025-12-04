@@ -1,0 +1,7 @@
+{
+  "name": "New Age Computers Service Portal",
+  "description": "Automated voice-to-ticket service portal for reporting hardware and networking issues.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
